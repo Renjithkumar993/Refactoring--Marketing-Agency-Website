@@ -1,4 +1,4 @@
-# Refactoring--Marketing-Agency-Website
+# Refactoring-Marketing-Agency-Website
 
 ## Description
 - The motivation for this project is to ensure that the codebase of a marketing agency website follows  accessibility standards.it's crucial for websites to be accessible to all users in today's digital age. By following accessibility standards, not only will the agency's website be more inclusive, but it will also be more easily discoverable by search engines. 
