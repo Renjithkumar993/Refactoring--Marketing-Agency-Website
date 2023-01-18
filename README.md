@@ -1,66 +1,34 @@
 # Refactoring--Marketing-Agency-Website
 
 ## Description
+- The motivation for this project is to ensure that the codebase of a marketing agency website follows  accessibility standards.it's crucial for websites to be accessible to all users in today's digital age. By following accessibility standards, not only will the agency's website be more inclusive, but it will also be more easily discoverable by search engines. 
+- This project addresses the problem of websites not being fully accessible to users with disabilities, which can negatively impact both the user experience and the website's search engine optimization. By refactoring the codebase to meet accessibility standards, the website will be more inclusive and optimized for search engines.
+- I learned about the importance of accessibility in website design and development, as well as the specific techniques and best practices for ensuring that a codebase meets accessibility standards.
+- This project is  not only addresses the important issue of website accessibility, but it also specifically focuses on the impact that accessibility can have on search engine optimization. By combining these two elements, the project provides a unique and comprehensive approach to improving the agency's website.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+There are no requirement of installing any application to run this.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To access the website please visit 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The website will be the exact replica of the screenshot below
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](./Devops/Assets/images/01-html-css-git-homework-demo.png)
     ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## Tests
 
