@@ -17,7 +17,7 @@ To access the website please visit
 
 The website will be the exact replica of the screenshot below
 
-    md
+
     ![alt text](./Devops/Assets/images/01-html-css-git-homework-demo.png)
 
 
