@@ -106,20 +106,20 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-main {
+.benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.benefit-main h3 {
+.benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
 
-.benefit-main img {
+.benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
