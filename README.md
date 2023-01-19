@@ -21,7 +21,7 @@ The website will be the exact replica of the screenshot below
 
 ## Credits
 
-N/A
+N/A.
 
 ## License
 
